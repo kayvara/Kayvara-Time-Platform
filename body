@@ -1,0 +1,8 @@
+<div class="marquee-container" id="globalMarquee">…</div>
+<canvas id="crowCanvas" width="400" height="906">
+<div class="central-container" id="mainMenuLayout" style="display: block;">…</div>
+<iframe src id="portalFrame" class="content-frame" style="display: none; opacity: 0;">…</iframe>
+<div class="loading-overlay" id="loadingScreen">…</div>flex
+<div class="crypto-modal-overlay" id="passwordModal">…</div>flex
+<div class="crypto-modal-overlay" id="passwordModal">…</div>flex
+<script>…</script>
